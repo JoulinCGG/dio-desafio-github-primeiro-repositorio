@@ -1,0 +1,31 @@
+- DIR - Serve para listar
+
+- cd / - Permite navegar entre as pastas (é necessário dar colocar o nome da pasta e dar enter)
+Para voltar pra pasta anterior: cd..
+
+- CLS - Comanda para limpar
+
+- Tecla TAB - Autocompleta
+Por exemplo: cd W e apertar TAB ele automaticamente puxaria o nome Windows pois é uma pasta do sistema
+
+- mkdir - comando para criar uma pasta (caso não apareça nenhuma mensagem é porque a pasta foi criada)
+Para confirmar se foi criada pode usar o comando DIR
+
+- echo - comando para criar um arquivo dentro da pasta
+Por exemplo:
+- echo hello
+    
+    Aqui foi criado um fluxo chamado hello.
+    
+- echo hello > hello.txt
+    
+    Aqui o sistema vai verificar se o hello.txt existe, caso não exista ele irá criar.
+    
+
+- del - comando para deletar
+Por exemplo:
+- del workspace
+    
+    Aqui seria apagado todos os arquivos que tem dentro da paga workspace
+    
+- rmdir workspace /S /Q
